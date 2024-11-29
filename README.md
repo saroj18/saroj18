@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saroj Aryal </h1>
+<h3 align="center"> Full Stack Developer(Learning) </h3>
 
-<!--
-**saroj18/saroj18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">l
+<a href="https://www.linkedin.com/in/saroj-aryal-65474b281/" ><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="https://x.com/sarojaryal59" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>&nbsp;
+</p>
+<br />
 
-Here are some ideas to get you started:
+## Languages and tools
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,expressjs,tailwindcss,git&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+- 🛒   [pasal-multi-vendor-ecommerce](https://pasal-ecommerce-client.vercel.app/) 
+- 🛏  [hotel-booking-site](https://hotel-booking-site-alpha.vercel.app/) 
+   
