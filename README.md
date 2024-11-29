@@ -12,6 +12,7 @@
 
 
 ## Projects
+- 🛒   [slackify](not completed yet) 
 - 🛒   [pasal-multi-vendor-ecommerce](https://pasal-ecommerce-client.vercel.app/) 
 - 🛏  [hotel-booking-site](https://hotel-booking-site-alpha.vercel.app/) 
    
