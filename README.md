@@ -13,6 +13,6 @@
 
 ## Projects
 - 🗂️  [slackify](https://slackify.vercel.app/) 
-- 🛒  [pasal-multi-vendor-ecommerce](https://pasal-ecommerce-client.vercel.app/) 
+- 🛒  [pasal-multi-vendor-ecommerce](https://pasalecommerce.vercel.app) 
 - 🛏  [hotel-booking-site](https://hotel-booking-site-alpha.vercel.app/) 
    
